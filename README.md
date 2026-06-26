@@ -16,6 +16,15 @@ Existing driver distraction detection systems face critical barriers to real-wor
 
 ---
 
+## Datasets
+
+- **State Farm Distracted Driver Detection** — Kaggle competition dataset (10 classes, `c0`–`c9`):
+  <https://www.kaggle.com/c/state-farm-distracted-driver-detection>
+- **American University in Cairo (AUC) Distracted Driver** dataset (Distracted Driver V2):
+  <https://heshameraqi.github.io/distraction_detection>
+
+---
+
 ## Authors
 
 - **Odinachi Udemezuo Nwankwo** [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--9595--921X-a6ce39?logo=orcid&logoColor=white)](https://orcid.org/0009-0008-9595-921X) — Department of IT Convergence Engineering, Kumoh National Institute of Technology, Gumi, South Korea
@@ -29,3 +38,13 @@ Existing driver distraction detection systems face critical barriers to real-wor
 - **Dong-Seong Kim** [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--2977--5964-a6ce39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-2977-5964) — Department of IT Convergence Engineering & ICT Convergence Research Center, Kumoh National Institute of Technology, Gumi, South Korea; NSLab Inc., Gumi, South Korea
 
 - **Jae Min Lee** ✉ [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6885--5185-a6ce39?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6885-5185) — Department of IT Convergence Engineering, Kumoh National Institute of Technology, Gumi, South Korea _(Corresponding author)_
+
+---
+
+## Citation
+
+If you use this work in your research, please cite the DRIVERDAPP paper:
+
+```
+<TBA>
+```
