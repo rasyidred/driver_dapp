@@ -8,10 +8,11 @@ Existing driver distraction detection systems face critical barriers to real-wor
 
 ## Repositories
 
-| Repository                                                              | Purpose                                                                                                   |
-| ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| [driverdapp_contract](https://github.com/rasyidred/driverdapp_contract) | Solidity smart contracts (`AccessRegistry`, `DistractionRecorder`), Foundry tests, and deployment scripts |
-| [driverdapp_netbench](https://github.com/rasyidred/driverdapp_netbench) | Hyperledger Besu permissioned network configuration and benchmarking                                      |
+| Repository                                                              | Purpose                                                              |
+| ----------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| [driverdapp_ai](https://github.com/rasyidred/driverdapp_ai)             | Driver distraction detection, Grad-CAM explainability                |
+| [driverdapp_contract](https://github.com/rasyidred/driverdapp_contract) | Solidity smart contracts                                             |
+| [driverdapp_netbench](https://github.com/rasyidred/driverdapp_netbench) | Hyperledger Besu permissioned network configuration and benchmarking |
 
 ---
 
