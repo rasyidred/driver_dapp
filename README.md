@@ -48,3 +48,9 @@ If you use this work in your research, please cite the DRIVERDAPP paper:
 ```
 <TBA>
 ```
+
+---
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE). Copyright © 2025 The DRIVERDAPP Authors.
