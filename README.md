@@ -43,10 +43,21 @@ Existing driver distraction detection systems face critical barriers to real-wor
 
 ## Citation
 
-If you use this work in your research, please cite the DRIVERDAPP paper:
+If you use this work in your research, please cite the [DRIVERDAPP paper](https://doi.org/10.1016/j.compeleceng.2026.111340):
 
-```
-<TBA>
+```bibtex
+@article{Nwankwo2026,
+  title   = {DRIVERDAPP: Driver’s distraction record using deep learning and blockchain},
+  author  = {Nwankwo, Odinachi Udemezuo and Ajakwe, Simeon Okechukwu and
+             Ansori, Muhammad Rasyid Redha and Haryadi, Gifar Arif and
+             Kim, Dong-Seong and Lee, Jae Min},
+  journal = {Computers and Electrical Engineering},
+  volume  = {139},
+  pages   = {111340},
+  year    = {2026},
+  issn    = {0045-7906},
+  doi     = {10.1016/j.compeleceng.2026.111340}
+}
 ```
 
 ---
